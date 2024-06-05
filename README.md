@@ -19,20 +19,9 @@ Welcome to my personal portfolio website! This project showcases my skills and e
 
 ## Usage
 
-To view the portfolio website locally:
+To view the portfolio website locally[link}
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/portfolio-website.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio-website
-    ```
-3. Open `index.html` in your web browser:
-    ```bash
-    open index.html
-    ```
+
 
 ## Contributing
 
@@ -40,7 +29,7 @@ I welcome contributions to improve the website! If you have suggestions for enha
 
 ## Contact
 
-If you have any questions or would like to get in touch, please reach out via [email@example.com](mailto:email@example.com).
+If you have any questions or would like to get in touch, please reach out via [bavanab42@gmail.com].
 
 
 ---
